@@ -5,6 +5,7 @@ html,body,h1,h2,h3,h4,p{
 }
 body{
     /* type hieronder de code voor de achtergrondkleur maar zorg er voor dat je binnen het } blijft! */
+    background-color: rgb(40, 41, 40);
     
 }
 .linkerzijde-met-afbeelding{
@@ -15,6 +16,7 @@ body{
     height:100%;
     background-image:url("images/keyvisual_achtergrond.jpg");
 }
+
 .rechterzijde-met-tekst{
     position:absolute;
     width:768px;
