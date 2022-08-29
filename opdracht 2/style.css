@@ -1,0 +1,47 @@
+@charset "UTF-8";
+/* CSS Document */
+html,body,h1,h2,h3,h4,p{
+    color:#FFF;
+}
+body{
+    /* type hieronder de code voor de achtergrondkleur maar zorg er voor dat je binnen het } blijft! */
+    
+}
+.linkerzijde-met-afbeelding{
+    position:fixed;
+    top:0;
+    left:0;
+    width:480px;
+    height:100%;
+    background-image:url("images/keyvisual_achtergrond.jpg");
+}
+.rechterzijde-met-tekst{
+    position:absolute;
+    width:768px;
+    left: 500px;
+    margin-bottom:30px;
+    padding:50px;
+    /* type hieronder de code voor de achtergrondkleur maar zorg er voor dat je binnen het } blijft! */
+    
+}
+
+h1{
+    /* type hieronder de code voor de tekstkleur maar zorg er voor dat je binnen het } blijft! */
+    
+}
+h2{
+    /* type hieronder de code voor de tekstkleur maar zorg er voor dat je binnen het } blijft! */
+    
+}
+h3{
+    /* type hieronder de code voor de tekstkleur maar zorg er voor dat je binnen het } blijft! */
+    
+}
+h4{
+    /* type hieronder de code voor de tekstkleur maar zorg er voor dat je binnen het } blijft! */
+    
+}
+p{
+    /* type hieronder de code voor de tekstkleur maar zorg er voor dat je binnen het } blijft! */
+    
+}
