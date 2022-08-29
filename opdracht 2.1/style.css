@@ -1,11 +1,11 @@
 @charset "UTF-8";
 /* CSS Document */
 html,body,h1,h2,h3,h4,p{
-    color:#FFF;
+    color:rgb(6, 6, 6);
 }
 body{
     /* type hieronder de code voor de achtergrondkleur maar zorg er voor dat je binnen het } blijft! */
-    background-color: rgb(40, 41, 40);
+    background-color: rgb(252, 255, 252);
     
 }
 .linkerzijde-met-afbeelding{
@@ -24,7 +24,7 @@ body{
     margin-bottom:30px;
     padding:50px;
     /* type hieronder de code voor de achtergrondkleur maar zorg er voor dat je binnen het } blijft! */
-    
+    font-family: Arial, sans-serif;
 }
 
 h1{
@@ -46,4 +46,9 @@ h4{
 p{
     /* type hieronder de code voor de tekstkleur maar zorg er voor dat je binnen het } blijft! */
     
+}
+
+.footer-plaatje{
+    border: 1vh solid white;
+    box-shadow: 2px 2px 2px black;
 }
