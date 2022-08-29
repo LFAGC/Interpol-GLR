@@ -1,0 +1,23 @@
+﻿body{
+    background-color: black;
+}
+.plaatje-1{
+    position:absolute;
+    top: 50px;
+    left: 50px;
+}
+.plaatje-2{
+    position:absolute;
+    top: 50px;
+    left: 50px;
+}
+.plaatje-3{
+    position:absolute;
+    top: 50px;
+    left: 50px;
+}
+.plaatje-4{
+    position:absolute;
+    top: 50px;
+    left: 50px;
+}
