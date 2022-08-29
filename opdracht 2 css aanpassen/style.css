@@ -1,15 +1,18 @@
 @charset "utf-8";
 /* CSS Document */
 body{
-	background-color:green;
+	background-color: white;
 }
 h1{
-	color:white;
+	color:white ;
+    background-color: #373A36;
+
 }
 h2{
-    color:red;
+    color:#D48166;
+    background-color:#E6E2DD ;
 }
 p{
-    color:white;
+    color:black
 }
 
